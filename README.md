@@ -32,3 +32,5 @@ Yeni bir proje oluşturun ve bir erişim anahtarı (access token) alın.
 Instagram API'sini kullanarak istediğiniz kullanıcının paylaşımlarını çekin. API isteğinde kullanıcı adınızı ve erişim anahtarınızı kullanarak bu işlemi gerçekleştirebilirsiniz. 
 
 Not: Instagram API'si 2020 yılında kapatıldı ve artık kullanılamıyor. Alternatif olarak, Instagram Basic Display API veya Instagram Graph API kullanabilirsiniz. Ancak, bu API'ler için de bir erişim anahtarı almanız gerekecek ve API'nin kullanımı için Instagram tarafından belirli kurallar ve sınırlamalar belirlenmiştir.
+
+https://www.youtube.com/watch?v=uj9WpuFIZb8
